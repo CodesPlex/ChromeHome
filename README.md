@@ -106,7 +106,7 @@ fetch("https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/info.json", re
 
 ## 支持的搜索引擎
 
-![](doc/ChromeHome8.png)
+![](ChromeHome8.png)
 
 ## 结尾
 
