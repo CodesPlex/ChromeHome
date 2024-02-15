@@ -1,0 +1,48 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    /* background-image: url("background.jpg"); */
+}
+
+.css {
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.footer-text {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    padding: 1px 0;
+}
+
+a:visited {
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+input[type="text"], select {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    color: #333;
+    font-size: 14px;
+    font-weight: bold;
+    outline: none;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
